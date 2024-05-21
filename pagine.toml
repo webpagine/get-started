@@ -1,0 +1,1 @@
+ignore = [ "/pagine.toml", "/.git*", "/.idea/*", "/contents/*", "/templates/*" ]
