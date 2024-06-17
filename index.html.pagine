@@ -1,8 +1,0 @@
-template = "/templates/post.gohtml"
-
-[content]
-content = "/contents/my_first_post.md"
-
-[data]
-lang = "en"
-title = "My First Post"

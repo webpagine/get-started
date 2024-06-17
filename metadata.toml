@@ -1,0 +1,61 @@
+[genesis]
+lang = "en"
+theme = "light"
+
+[genesis.head]
+icon = "https://avatars.githubusercontent.com/u/168826426"
+
+# Header
+
+[genesis.header.nav.logo]
+src = "https://pagine.symboltics.com/assets/img/pagine.svg"
+height = 50
+
+[[genesis.header.nav.items]]
+title = "Home"
+link = "/"
+
+[[genesis.header.nav.items]]
+title = "Repositories"
+link = "https://github.com/webpagine"
+
+# Footer
+
+[genesis.footer.logo]
+src = "https://pagine.symboltics.com/templates/genesis/img/pagine_mono.svg"
+height = 40
+
+[genesis.footer.copyright]
+owner = "Pagine"
+date = "2024"
+license = "Text is available under the <a target=\"_blank\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode.en\">Creative Commons Attribution-ShareAlike License 4.0</a>; additional terms may apply."
+
+[[genesis.footer.lists]]
+title = "About Pagine"
+links = [
+    { name = "Website", link = "https://pagine.symboltics.com" },
+    { name = "Repositories", link = "https://github.com/webpagine" },
+    { name = "Documentation", link = "https://pagine.symboltics.com/docs" },
+]
+
+[[genesis.footer.lists]]
+title = "Templates"
+links = [
+    { name = "Genesis", link = "https://github.com/webpagine/genesis" },
+]
+
+[[genesis.footer.media.list]]
+icon = "github"
+link = "https://github.com/webpagine"
+
+[[genesis.footer.media.list]]
+icon = "discord"
+link = "https://discord.gg/SBbp7M4nus"
+
+[[genesis.footer.media.list]]
+icon = "element"
+link = "https://matrix.to/#/#webpagine:matrix.org"
+
+[[genesis.footer.media.list]]
+icon = "telegram"
+link = "https://t.me/webpagine"
